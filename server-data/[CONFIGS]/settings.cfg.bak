@@ -1,0 +1,70 @@
+################################################################################################
+#																				          	   #
+#       ______ _______ _    _ _____ _____          _        _____  ________       _______      #
+#      |  ____|__   __| |  | |_   _/ ____|   /\   | |      |  __ \|  ____\ \    / / ____|      #
+#      | |__     | |  | |__| | | || |       /  \  | |      | |  | | |__   \ \  / / (___        #
+#      |  __|    | |  |  __  | | || |      / /\ \ | |      | |  | |  __|   \ \/ / \___ \       #
+#      | |____   | |  | |  | |_| || |____ / ____ \| |____  | |__| | |____   \  /  ____) |      #
+#      |______|  |_|  |_|  |_|_____\_____/_/    \_\______| |_____/|______|   \/  |_____/       #
+# 																					           #
+#                           joshua#5319 glacielgaming#6969 Woodz#1668                          #
+################################################################################################
+
+
+############################
+####### FIVEM SERVER #######
+############################
+
+ensure hardcap
+ensure rconlog
+sv_scriptHookAllowed 0
+#rcon_password ""
+sets tags "default"
+sets locale "en-US" 
+#sets banner_detail "https://url.to/image.png"
+sets banner_detail "https://cdn.discordapp.com/attachments/422597127508852736/853090241246003220/ethical_framework_banner_long.png"
+sets banner_connecting "https://cdn.discordapp.com/attachments/422597127508852736/853090241246003220/ethical_framework_banner_long.png"
+sv_hostname "Ethical Framework"
+sets sv_projectName "My FXServer Project"
+sets sv_projectDesc "Default FXServer requiring configuration"
+#exec server_internal.cfg
+load_server_icon fivem.png
+set temp_convar "hey world!"
+sv_master1 ""
+set onesync on
+sv_maxclients 48
+
+############################
+########## ONESYNC #########
+############################
+
+set onesync_workaround763185 true
+set onesync_forceMigration true
+set onesync_distanceCullVehicles true
+
+############################
+######## FIVEM KEYS ########
+############################
+
+sv_licenseKey ""
+set steam_webApiKey ""
+
+############################
+####### FIVEM ADMINS #######
+############################
+
+add_ace group.admin command allow
+add_ace group.admin command.quit deny
+add_principal identifier.steam:PUTSTEAMIDHERE group.admin #ADD HERE
+
+################################################################################################
+#																				          	   #
+#       ______ _______ _    _ _____ _____          _        _____  ________       _______      #
+#      |  ____|__   __| |  | |_   _/ ____|   /\   | |      |  __ \|  ____\ \    / / ____|      #
+#      | |__     | |  | |__| | | || |       /  \  | |      | |  | | |__   \ \  / / (___        #
+#      |  __|    | |  |  __  | | || |      / /\ \ | |      | |  | |  __|   \ \/ / \___ \       #
+#      | |____   | |  | |  | |_| || |____ / ____ \| |____  | |__| | |____   \  /  ____) |      #
+#      |______|  |_|  |_|  |_|_____\_____/_/    \_\______| |_____/|______|   \/  |_____/       #
+# 																					           #
+#                           joshua#5319 glacielgaming#6969 Woodz#1668                          #
+################################################################################################

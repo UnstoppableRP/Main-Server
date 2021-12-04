@@ -1,0 +1,237 @@
+################################################################################################
+#																				          	   #
+#       ______ _______ _    _ _____ _____          _        _____  ________       _______      #
+#      |  ____|__   __| |  | |_   _/ ____|   /\   | |      |  __ \|  ____\ \    / / ____|      #
+#      | |__     | |  | |__| | | || |       /  \  | |      | |  | | |__   \ \  / / (___        #
+#      |  __|    | |  |  __  | | || |      / /\ \ | |      | |  | |  __|   \ \/ / \___ \       #
+#      | |____   | |  | |  | |_| || |____ / ____ \| |____  | |__| | |____   \  /  ____) |      #
+#      |______|  |_|  |_|  |_|_____\_____/_/    \_\______| |_____/|______|   \/  |_____/       #
+# 																					           #
+#                           joshua#5319 glacielgaming#6969 Woodz#1668                          #
+################################################################################################
+
+
+##############################
+######## SQL / FIVEM #########
+##############################
+
+ensure mapmanager
+ensure spawnmanager
+ensure yarn
+ensure cron
+ensure ghmattimysql
+ensure EthicalSplash
+ensure ethical_discord_api
+ensure RichPresence
+ensure ethical-infinity
+ensure connectqueue
+ensure PolyZone
+ensure chat
+ensure 3dme
+
+############################
+######### ETHICAL ##########
+############################
+
+ensure ethical-errorlog
+ensure ethical-base
+ensure ethical-log
+ensure ethical-spawn
+ensure ethical-whitelist
+ensure ethical-admin
+ensure ethical-eblips
+ensure ethical-love
+ensure ethical-WeatherSync
+ensure ethical-menu
+ensure ethical-scoreboard
+ensure ethical-gunmetas
+ensure ethical-commands
+ensure ethical-polyzone
+ensure ethical-gangweapons
+ensure ethical-bennys
+ensure ethical-interior
+ensure ethical-drugdeliveries
+ensure ethical-voice
+ensure ethical-inventory
+ensure ethical-weapons
+ensure ethical-actionbar
+ensure ethical-barriers
+ensure ethical-fish
+ensure ethical-furniture
+ensure ethical-taskbar
+ensure ethical-taximeter
+ensure ethical-thermite
+ensure ethical-density
+ensure ethical-doors
+ensure ethical-heatmap
+ensure ethical-fx
+ensure ethical-evidence
+ensure ethical-notepad
+ensure ethical-jewelrob
+ensure ethical-newsJob
+ensure ethical-keypad
+ensure ethical-lockpicking
+ensure ethical-oVehicleMod
+ensure ethical-rehab
+ensure ethical-lost
+ensure boatshop
+ensure ethical-cid
+ensure ethical-news
+ensure ethical-carmap
+ensure ethical-xhair
+ensure ethical-vanillaCarTweak
+ensure ethical-tunershop
+ensure ethical-tuner
+ensure ethical-tow
+ensure ethical-webpages
+ensure ethical-broadcaster
+ensure ethical-oHideFrames
+ensure ethical-oStress
+ensure ethical-oCam
+ensure ethical-oRecoil
+ensure ethical-oBinoculars
+ensure ethical-oGasStations
+ensure ethical-oPlayerNumbers
+ensure ethical-particles
+ensure ethical-ems
+ensure ethical-golf
+ensure ethical-gym
+ensure ethical-gunmeta
+ensure ethical-target
+ensure ethical-gundamage
+ensure ethicalburgershot
+ensure ethicalburgershop
+ensure ethical-jobmanager
+ensure ethical-gunmetaDLC
+ensure ethical-propattach
+ensure ethical-hospitalization
+ensure ethical-keys
+ensure ethical-taskbarskill
+ensure ethical-taskbarthreat
+ensure ethical-tasknotify
+ensure ethical-spikes
+ensure ethical-stash
+ensure ethical-stashhouse
+ensure ethical-stripperbitches
+ensure ethical-vehicleconfig
+ensure ethical-stripclub
+ensure ethical-dirtymoney
+ensure ethical-securityheists
+ensure ethical-secondaryjobs
+ensure ethical-driving-instructor
+ensure ethical-driftschool
+ensure ethical-dealer
+ensure ethical-camera
+ensure ethical-gangs
+ensure ethical-dispatch
+ensure ethical-robbery
+ensure ethical-holsters
+ensure ethical-interaction
+ensure ethical
+ensure ethical-hunting
+ensure ethical-hospital
+ensure ethical-mdt
+
+###########################
+###### MISCELLANEOUS ######
+###########################
+
+ensure banking
+ensure storage
+ensure raid_clothes
+ensure tab
+ensure ethical-loading-screen
+ensure ethical-lootsystem
+ensure apartments
+ensure isPed
+ensure assets-peds
+ensure heli
+ensure police
+ensure jailbreak
+ensure ems_menu
+ensure lux_vehcontrol
+ensure InteractSound
+ensure warmenu
+ensure minimap
+ensure ragdoll
+ensure k9
+ensure carandplayerhud
+ensure furniture
+ensure carwash
+ensure test
+ensure outlawalert
+ensure radio
+ensure raid_carmenu
+ensure emotes
+ensure jobsystem
+ensure phone
+ensure radio
+ensure shops
+ensure truckerjob
+ensure trains
+ensure uitest
+ensure LockDoors
+ensure lmfao
+ensure wk_wrs
+ensure towtruckjob
+ensure veh
+ensure veh_shop
+ensure nh-keyboard
+ensure nh-scenes
+ensure police_menu
+ensure garages
+ensure menu
+ensure coordsaver
+
+##################
+###### MLOs ######
+##################
+
+ensure maps
+ensure ethicalburgershotmlo
+ensure ethical-maps2
+ensure ethical-casinoshow
+ensure gabz_pillbox_hospital
+ensure gabz_mrpd
+ensure furnished-shells
+ensure import-Pack2
+ensure motel
+
+##################
+#### VEHICLES ####
+##################
+
+ensure thunderbolt
+ensure es_taxi
+ensure import-Pack
+ensure LAPD-PACK
+ensure polmav
+
+
+
+ensure medicgarage
+ensure policegarage
+ensure ethical-applications
+ ensure assets
+ ensure assets_weapons
+ ensure assets_maps
+ ensure raid_cars
+ ensure ethical-newstash
+ ensure emspack
+ ensure ped
+ ensure ethical-prison
+
+
+# THANKS FOR USING OUR FRAMEWORK, WE HOPE YOU ENJOY
+
+################################################################################################
+#																				          	   #
+#       ______ _______ _    _ _____ _____          _        _____  ________       _______      #
+#      |  ____|__   __| |  | |_   _/ ____|   /\   | |      |  __ \|  ____\ \    / / ____|      #
+#      | |__     | |  | |__| | | || |       /  \  | |      | |  | | |__   \ \  / / (___        #
+#      |  __|    | |  |  __  | | || |      / /\ \ | |      | |  | |  __|   \ \/ / \___ \       #
+#      | |____   | |  | |  | |_| || |____ / ____ \| |____  | |__| | |____   \  /  ____) |      #
+#      |______|  |_|  |_|  |_|_____\_____/_/    \_\______| |_____/|______|   \/  |_____/       #
+# 																					           #
+#                           joshua#5319 glacielgaming#6969 Woodz#1668                          #
+################################################################################################
