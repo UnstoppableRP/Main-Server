@@ -1,0 +1,9 @@
+Config={}
+Config.Policecar1 = "sv 1"
+Config.Policecar2 = "sv 2"
+Config.Policecar3 = "sv 3"
+Config.Policecar4 = "sv 4"
+Config.Policecar5 = "sv 6"
+Config.Policecar6 = "sv 7"
+Config.Policecar7 = "sv 11"
+Config.Policecar8 = "sv 12"
