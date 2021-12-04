@@ -1,0 +1,2 @@
+ETHICAL = ETHICAL or {}
+NPX = NPX or {}
